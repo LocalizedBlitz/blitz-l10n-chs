@@ -21551,7 +21551,7 @@
 "missionJournal/newbie/timerTooltip": "在时间结束前领取奖励"
 "missionJournal/newbie/DailyHeader": "每日任务"
 "missionJournal/newbie/ChainHeader": "新兵任务"
-"PreLogin/LestaGamesCopyright": "© Леста Игры, 2022–2026. Tanks Blitz基于第三方的知识产权。第三方权利对象的所有权利归其合法权利人所有。 汉化团队：澪刻（https://github.com/LocalizedKorabli）"
+"PreLogin/LestaGamesCopyright": "© Леста Игры, 2022–2026. Tanks Blitz基于第三方的知识产权。第三方权利对象的所有权利归其合法权利人所有。\n\n汉化团队：澪埠（https://github.com/LocalizedBlitz）"
 "Login/NewGame/LoginLestaButton": "使用LESTA ID登录"
 "Login/LogInScreen/LoginWithLestaID": "使用LESTA ID登录"
 "#lesta_id:APIErrors/wrong_captch_answer": "输入的代码不正确"
