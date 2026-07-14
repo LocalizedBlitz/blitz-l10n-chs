@@ -1,0 +1,7 @@
+{
+    "version": "26.0715.1602",
+    "supported_game_version": "26.6",
+    "files": {
+        "ru.yaml.dvpl": ["Strings/ru.yaml.dvpl"]
+    }
+}
